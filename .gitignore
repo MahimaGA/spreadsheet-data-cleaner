@@ -1,0 +1,6 @@
+# Excel
+*.xlsx*
+
+# Python
+.venv/
+__pycache__/
